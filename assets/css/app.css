@@ -1,0 +1,200 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Saira', sans-serif;
+	color: #282828;
+}
+
+
+.container{
+    width: 1420px;
+    margin: auto;
+}
+.line{
+    width: 100px;
+    background: #d8b764;
+    height: 2px;
+    display: block;
+    margin: 10px auto;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-1-2{
+    flex-basis: 50%;
+    padding: 15px;
+}
+.col-1-3{}
+h1{
+    font-size: 45px;
+    font-weight: 400;
+} 
+h2{}
+p{
+    font-size: 22px;
+}
+img{
+    max-width: 100%;
+}
+
+
+.headline{
+    background-color: #333;
+    padding: 10px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Saira', sans-serif;
+	color: #282828;
+}
+
+
+.container{
+    width: 1420px;
+    margin: auto;
+}
+.line{
+    width: 100px;
+    background: #d8b764;
+    height: 2px;
+    display: block;
+    margin: 10px auto;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-1-2{
+    flex-basis: 50%;
+    padding: 15px;
+}
+.col-1-3{
+    flex-basis: 33.33%;
+    padding: 15px;
+}
+h1{
+    font-size: 45px;
+    font-weight: 400;
+} 
+h2{
+    
+}
+p{
+    font-size: 22px;
+}
+img{
+    max-width: 100%;
+}
+
+
+.headline{
+    background-color: #333;
+    padding: 10px;
+}
+.headline p {
+    color: #d4be84;
+    text-align: center;
+    font-size: 14px;
+}
+.headline p strong {
+    margin-right: 15px;
+}
+
+.about-us-section{}
+.content{
+    padding: 50px 220px;
+    text-align: center;
+}
+
+.feature-section{
+    padding: 50px 0;
+}
+.feature-heading{
+    padding: 100px;
+}
+.feature-heading h2{
+    font-weight: 400;
+    width: 175px;
+    font-size: 24px;
+}
+
+.gallary-section{
+    padding-bottom: 100px;
+}
+
+
+.gallary-content{
+    background-color: #282828;
+    padding: 130px 70px;
+}
+.gallary-content h3{
+    color: #c6a75c;
+}
+.gallary-content p{
+    color: #fff;
+    font-size: 15px;
+    margin: 13px 0;
+}
+.gallary-content a{
+    color: #c6b481;
+    text-decoration: none;
+}
+
+.headline-2{
+    background-color: #282828;
+    padding: 50px;
+    text-align: center;
+}
+.headline-2 h4{
+    color: #c6b481;
+    font-size: 26px;
+    font-weight: 400;
+    width: 780px;
+    margin: auto;
+}
+
+
+.product-section{
+    padding: 80px 0;
+}
+.heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.heading h2{
+    font-size: 28px;
+    font-weight: 400;
+}
+
+
+.product-box{
+    text-align: center;
+    background-color: #f3f0eb;
+    padding: 30px;
+}
+.product-box img{}
+.product-box h3{
+    color: #282828;
+}
+.product-box h4{
+    color: #282828;
+}
+.product-box a{
+	text-decoration: none;
+}
+.review{
+    display: flex;
+    justify-content: center;
+}
+.review img{
+    width: 30px;
+    padding: 5px;
+}
